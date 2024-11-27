@@ -1,0 +1,51 @@
+# Python virtual environment
+venv/
+env/
+.env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Environment variables
+.env
+.env.local
+
+# Streamlit specific
+.streamlit/secrets.toml
+
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# Data files (se non vuoi versionare i file di dati)
+*.csv
+*.xlsx
+*.json
+data/
+
+# Jupyter Notebook
+.ipynb_checkpoints
