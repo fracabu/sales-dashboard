@@ -1,4 +1,6 @@
 # Advanced Sales Analytics Dashboard
+![image](https://github.com/user-attachments/assets/e2884a0e-aae1-4650-98ab-3639edc242d2)
+
 
 A comprehensive analytics dashboard built with Streamlit for visualizing and analyzing sales data. This dashboard provides advanced analytics capabilities, interactive visualizations, and real-time data integration.
 
@@ -25,6 +27,8 @@ A comprehensive analytics dashboard built with Streamlit for visualizing and ana
   - Trend strength
   - Profit margins
   - Growth rates
+![image](https://github.com/user-attachments/assets/490c2964-8920-4eda-840b-eca9b0689cfc)
+
 
 ### 📈 Visualizations
 - Interactive 4-in-1 dashboard view
@@ -38,11 +42,17 @@ A comprehensive analytics dashboard built with Streamlit for visualizing and ana
   - Dynamic filtering
   - Export as PNG
 
+![image](https://github.com/user-attachments/assets/a0c0c665-fa6a-47c0-ae3a-98bd2e7956dd)
+
+
 ### 🔄 API Integration
 - Real-time data fetching
 - Configurable auto-refresh
 - API authentication support
 - Immediate data analysis
+
+  ![image](https://github.com/user-attachments/assets/b474c696-46e4-45ec-a471-02eeec73a520)
+
 
 ## 🚀 Getting Started
 
